@@ -4,6 +4,7 @@ Problem Statment
 Vrinda store is selling their products online through diffrent channels like Amazon, Flipkart etc. They have a sales data of year 2022 & they want us to analyse this data to understand their customers to grow more sales in 2023.
 
 Task List
+
 • Data Cleaning : Go through the given dataset & check for the duplicates, null & inconsistent values.
 
 • Data Processing : Add a calculated columns basis on the values from the existing columns.
