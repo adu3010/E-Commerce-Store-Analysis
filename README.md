@@ -5,17 +5,26 @@ Vrinda store is selling their products online through diffrent channels like Ama
 
 Task List
 • Data Cleaning : Go through the given dataset & check for the duplicates, null & inconsistent values.
+
 • Data Processing : Add a calculated columns basis on the values from the existing columns.
+
 • Exploratory Data Analysis : Understand the given data by using aggrigate functions & pivot tables.
+
 • Data Visualisation : Crate a appropriate charts to understand the data easily.
+
 • Dashboard : Make a dashboard by placing a different charts on a single page.
+
 • Insights : Provide a relevant insights to the stakeholders.
 
 Overall Analysis View
 Some Important Insights from the Dashboard
+
 • Women are more likely to buy compared to men (65%)
+
 • Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (35%)
+
 • Adult age group (31-50 yrs) is max contributing (50%)
+
 • Amazon, Flipkart and Myntra channels are max contributing(80%)
 
 Final Conclusion
