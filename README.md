@@ -1,4 +1,4 @@
-# E-Commerce-Store-Analysis
+# E-Commerce-Store PowerBI Dashboard
 
 Problem Statment
 Vrinda store is selling their products online through diffrent channels like Amazon, Flipkart etc. They have a sales data of year 2022 & they want us to analyse this data to understand their customers to grow more sales in 2023.
